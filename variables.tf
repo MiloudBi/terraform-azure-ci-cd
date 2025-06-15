@@ -1,7 +1,3 @@
-variable "subscription_id" {
-	default = "431c2af1-08a1-44f5-b2a1-ac86d6545af9"
-}
-
 variable "resource_group_name" {
 	default = "resourceGroup02"
 }
